@@ -2,3 +2,7 @@
 1. Python - Great for beginners
 2. JavaSript - Powers the web
 3. Java - Entreprise ready
+
+
+------
+4. C++ - Performance matters
